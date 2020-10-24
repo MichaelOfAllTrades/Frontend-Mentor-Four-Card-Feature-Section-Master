@@ -1,0 +1,125 @@
+body{
+
+    width: 375px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+}
+
+div{
+    margin: 0 0 0 0;
+    width: 375px;
+}
+
+.top-container{
+    margin-top: 50px;
+    text-align: center;
+}
+
+#slogan1{
+    margin-top: 0;
+    margin-bottom: 0;
+    font-weight: 100;
+}
+
+#slogan2{
+    margin-top: 0;
+}
+
+#intro-par{
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: 100;
+}
+
+
+
+
+
+.supervisor{
+    width: 85%;
+    height: 220px;
+    margin: 50px auto;
+
+    border-top: 3px solid;
+    border-radius: 5px;
+    border-color: #4CCECF;
+    background: #e4e9de;
+
+
+    -webkit-box-shadow: 0 8px 6px -6px black;
+	   -moz-box-shadow: 0 8px 6px -6px black;
+	        box-shadow: 0 8px 6px -6px black;
+}
+
+.team-builder{
+    width: 85%;
+    height: 220px;
+    margin: 50px auto;
+
+    border-top: 3px solid;
+    border-radius: 5px;
+    border-color: #e08989;
+    background: #e4e9de;
+
+
+    -webkit-box-shadow: 0 8px 6px -6px black;
+	   -moz-box-shadow: 0 8px 6px -6px black;
+	        box-shadow: 0 8px 6px -6px black;
+}
+
+
+.karma{
+    width: 85%;
+    height: 220px;
+    margin: 50px auto;
+
+
+    border-top: 3px solid;
+    border-radius: 5px;
+    border-color: #edae60;
+    background: #e4e9de;
+    
+
+
+    -webkit-box-shadow: 0 8px 6px -6px black;
+	   -moz-box-shadow: 0 8px 6px -6px black;
+	        box-shadow: 0 8px 6px -6px black;
+}
+
+
+
+.calculator{
+    width: 85%;
+    height: 220px;
+    margin: 50px auto;
+
+
+    border-top: 3px solid;
+    border-radius: 5px;
+    border-color: #619bdc;
+    background: #e4e9de;
+
+
+    -webkit-box-shadow: 0 8px 6px -6px black;
+	   -moz-box-shadow: 0 8px 6px -6px black;
+	        box-shadow: 0 8px 6px -6px black;
+    
+}
+
+.heading{
+
+}
+.slogan{
+    width: 60%;
+    position: relative;
+
+    /* left: 50px; */
+}
+
+.icon{
+    position: relative;
+
+    left: 240px;
+}
